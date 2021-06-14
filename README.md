@@ -184,3 +184,24 @@ Colors: rgba(255, 162, 0, 1) Orange
 - A working contact form when I learn more about Javascript and the backend requirements for this. 
 
 <p>&nbsp;</p>
+
+## 5.2 Frameworks, Libraries, Programs and Sites.
+
+- [Bootstrap](https://getbootstrap.com/) - Bootstrap was used to take advantage of the grid, ease of use for responsive layout and components like navbar, cards, existing CDN CI template and footer.
+
+- [Balsamiq](https://balsamiq.com/) - Balsamiq was used to create wireframes for mobile, tablet and desktop.
+
+- [Adobe XD](https://www.adobe.com/ie/products/xd.html) - Adobe XD was used to create graphics, logo and personas that are included in the readme
+
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - Illustrator was used to change colour of SVG icons to use in the README logo for Beelivefit Co.
+
+
+- [Google Fonts](https://fonts.google.com/) - The fonts 'Raleway' and 'Roboto' were found and the relevant CSS styling was taken from this site to import the fonts for use.
+
+
+- [Typewolf](https://www.typewolf.com/) - Typewolf was used to help get an insight into popular font pairings and for seeing what may work from google fonts selections. 
+
+- [Font Awesome](https://fontawesome.com/) - Font awesome provided the icons and code for the icons used in the about us section, and footer.
+
+- [Favicon](https://www.favicon-generator.org/) - Favicon generaton provided my icon beside the Title.
+
