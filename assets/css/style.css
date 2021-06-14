@@ -12,3 +12,30 @@ body {
     font-size: 1rem;
     color: #fafafa;
 }
+
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    color: rgba(255, 162, 0, 1);
+}
+
+h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: rgba(255, 162, 0, 1);
+}
+
+/* Hover states */
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: rgba(255, 162, 0, 1);
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(255, 162, 0, 1);
+    border-bottom: 1px solid rgba(255, 162, 0, 1);
+}
