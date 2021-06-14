@@ -230,3 +230,123 @@ color: #000;
 .footer-icon:hover {
     color: rgba(255, 162, 0, 1);
 }
+
+/* ------------------------ Media Queries  */
+
+/* ADVICE - Help on understanding media queries https://www.w3schools.com/css/css3_mediaqueries_ex.asp */
+
+/* iPhone 5 screen */
+@media screen and (max-width: 320px) {
+    #headerimg {
+        height: 50vh;
+    }
+    #headerimg .overlay {
+        height: 50vh;
+    }
+    #headerimg .hero-text {
+        padding-top: 4rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+    .card{
+        margin-top: 350px;
+    }
+}
+
+
+/* iPhone X Landscape view */
+@media screen and (max-height: 375px) {
+    #headerimg{
+        min-height: 70vh;
+    }
+    #headerimg .overlay {
+        min-height: 70vh;
+    }
+    #headerimg .hero-text {
+        padding-top: 6rem;
+    }
+    .card{
+        margin-top: 350px;
+    }
+}
+
+/* iPhone 6 screen */
+@media screen and (max-width: 375px) {
+    #headerimg {
+        min-height: 40vh;
+    }
+    #headerimg .overlay {
+        min-height: 40vh;
+    }
+    #headerimg .hero-text {
+        padding-top: 8rem;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.5rem;
+    }
+    .card{
+        margin-top: 350px;
+    }
+}
+
+/* Large breakpoint */
+
+@media screen and (max-width: 425px) {
+    #headerimg {
+        min-height: 45vh;
+    }
+    #headerimg .overlay {
+        min-height: 45vh;
+    }
+    #headerimg .hero-text {
+        padding-top: 7rem;
+    }
+}
+
+/* iPad and iPad pro */
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    #hero-image {
+        min-height: 40vh;
+    }
+    #hero-image .overlay {
+        min-height: 40vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 7rem;
+    }
+    .card{
+        margin-top: 350px;
+    }
+    
+}
+
+/* Pixel 2xl and iPhone 6/7/8 Landscape view */
+@media screen and (max-height: 414px) {
+    #hero-image {
+        min-height: 60vh;
+    }
+    #hero-image .overlay {
+        min-height: 60vh;
+    }
+    #hero-image .hero-text {
+        padding-top: 6rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+    .card{
+        margin-top: 350px;
+    }
+}
