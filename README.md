@@ -250,4 +250,41 @@ Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/
 
 ## 7.3 Known Bugs
 1. There is a bug in the dev tools, when you run responsive in Iphone X. In the Beelive list form.
+
 <p>&nbsp;</p>
+
+# 8. Credits 
+
+## 8.1 Code 
+
+- The [bootstrap documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/) was very important in helping me understand responsiveness and the grid.
+- All individual instances of Code Snippets or help from [Stack Overflow](http://stackoverflow.com/) are credited and commented within the HTML and CSS.
+- Another source of inspiration and help was [W3schools](https://www.w3schools.com/)
+- Finally, I learnt a lot from the Code Institute curriculum and questions asked in the various slack channels. 
+
+## 8.2 Images and websites
+
+- The hero image was used courtesy of Shannon Davidson collection.
+
+- The 'Feedback' illustration was used  from [google](https://www.google.com/search?q=mujeres+entrenando&sxsrf=ALeKk039p4KYlfMZpGDrJpda0pqvHVgxQg:1623261827743&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiay_rEkYvxAhXTOcAKHYZWBLQQ_AUoAXoECAEQAw&biw=1920&bih=969).
+
+- All content on the website was written by me. 
+
+- The icons used on the site were all sourced from [FontAwesome](https://fontawesome.com/).
+
+- These websites provided some inspiration for layout and form
+    - [Pure Gym uk](https://www.puregym.com/)
+    - [Steve Cook](https://www.fitnessculture.com/)
+
+## 8.3 Thanks 
+- Thanks to my mentor Maranatha Ilesanmi for his help and guidance during the process.
+- All of the people who helped me with questions and problems on the Code Institute Slack Channel.
+- The Code Institute Staff and Tutors.
+
+<p>&nbsp;</p>
+
+# 9. Support or Contact 
+
+Email: nacho.cladera@hotmail.com
+
+Or connect with me on [Linkedin](https://www.linkedin.com/in/ignacio-cladera-38897120b//).
