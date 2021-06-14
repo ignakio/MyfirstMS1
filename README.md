@@ -215,7 +215,7 @@ Colors: rgba(255, 162, 0, 1) Orange
 
 # 6. Testing 
 
-- Testing results can be read in the [testing.md]() file.
+- Testing results can be read in the [testing.md](https://github.com/ignakio/MyfirstMS1/blob/master/TESTING.md) file.
 
 <p>&nbsp;</p>
 
@@ -240,7 +240,7 @@ Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/
 
 ## 7.2 Cloning Project 
 
-1. Open the Github Repo for this project [Ignacio Cladera|Beelive Fit Co.]()
+1. Open the Github Repo for this project [Ignacio Cladera|Beelive Fit Co.](https://github.com/ignakio/MyfirstMS1)
 2. By clicking on the code section you will be presented with a drop down as demonstrated in the photo below
 <img src="readme_files/readmefilesimgs/cloningproject.png" style="margin:0;">
 
