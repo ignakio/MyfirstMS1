@@ -205,3 +205,24 @@ Colors: rgba(255, 162, 0, 1) Orange
 
 - [Favicon](https://www.favicon-generator.org/) - Favicon generaton provided my icon beside the Title.
 
+## 5.3 Workspace, Repositories and Version Control
+
+- [Github](https://www.github.com) - This project and all its files are hosted on github and the live website is hosted by using Git Hub Pages.
+
+- [Gitpod](https://www.gitpod.io) - Gitpod is recommended by the coding institute and was used as the IDE. It also enabled me to add, commit and push to GitHub and keep track of version control. 
+
+<p>&nbsp;</p>
+
+# 6. Testing 
+
+- Testing results can be read in the [testing.md]() file.
+
+<p>&nbsp;</p>
+
+# 7. Deployment 
+
+<p>&nbsp;</p>
+
+## 7.1 Publishing
+
+Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/). In order to do this I took the following steps.
