@@ -226,3 +226,28 @@ Colors: rgba(255, 162, 0, 1) Orange
 ## 7.1 Publishing
 
 Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/). In order to do this I took the following steps.
+
+1. Open my Github Repo for this project [Ignacio Cladera|Beelive Fit Co.]()
+2. Locate and click on the settings section to the right of the screen. Settings can be viewed in the photo below
+<img src="readme_files/readmefilesimgs/locationbeelive.png" style="margin:0;">
+
+3. When settings is open you will need to scroll down to the 'Git Hub Pages' section which is around half way down the page.
+4. Use the 'Source' section and pick 'Master Branch'
+5. This will eventually reload and display the address for the published page as demonstrated in the photo below.
+<img src="readme_files/readmefilesimgs/pages.png" style="margin:0;">
+
+6. This can sometimes take a few minutes, so some patience may be required before being able to view your page.
+
+## 7.2 Cloning Project 
+
+1. Open the Github Repo for this project [Ignacio Cladera|Beelive Fit Co.]()
+2. By clicking on the code section you will be presented with a drop down as demonstrated in the photo below
+<img src="readme_files/readmefilesimgs/cloningproject.png" style="margin:0;">
+
+3. Select and copy the URL or you can choose to 'Download Zip'
+4. With your terminal open or chosen IDE type 'git clone' in the CLI then paste the copied URL.
+5. If you would prefer you can also use the 'Open with Github Desktop' option and follow the steps provided.
+
+## 7.3 Known Bugs
+1. There is a bug in the dev tools, when you run responsive in Iphone X. In the Beelive list form.
+<p>&nbsp;</p>
