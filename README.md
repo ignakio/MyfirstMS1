@@ -76,3 +76,55 @@ Based on the user stories two personas were developed. Personas will give a face
 
 
 <p>&nbsp;</p>
+
+## 3.3 UX Strategy 
+
+
+The aim of this project is to raise awareness of the stakeholders business with a fully responsive and visually appealing site. The site should be easy to use and build on existing mental models of mobile first design. The business will have a wide demographic so the key information should be easy to find and accessibility will be very important. 
+
+The primary objectives of the site would be 
+
+- Give users the chance to learn more about the business
+- Show customers what is unique about Beelive Fit Co. through text and visuals. 
+- Be able to communicate what services the business offers in changing covid 19 requirements.
+
+Meeting the user’s needs and goals
+
+- The site should be fully responsive and have the same effectiveness on mobile and desktop.
+- Imagery and icons used with short bursts of text. This will inform the user but not overwhelm and can give them the chance to learn more if they so wish.
+- A single page scrolling site that will guide the user to the relevant section without confusing them by moving away from the core home page. 
+- Fixed header to aid with the user’s navigation on the site for ease of use. 
+- Clear indicators of social media links, contact number and google map locations if the user wishes to find the stakeholder or find out more about the business.
+
+Following current industry best practices the site will be a one page scrolling site on desktop, with the navigation bar collapsing into a hamburger menu with a pop up modal on mobile and tablet. 
+
+## 3.4 Scope
+
+Using Lean UX a minimum viable product (MVP) was developed in order to learn quickly about what will work on the site. Developing the site in this way will allow time for testing and give ample opportunity to fix any bugs or features that may not be working. Using a Lean UX methodology will enable us to see if we 
+
+- Can clearly communicate what the business is about and what services we offer to the local community. 
+- Provide a way for users to connect or contact the business.
+- Give returning user’s the chance to learn more about what class is on this week.
+- Help new user’s locate us so they can visit us in the store
+- Provide an overall positive experience across all devices that a new user may use. 
+- That the site is built using correct HTML semantics and follows industry standards for accessibility. 
+
+## 3.5 Structure
+
+The website will operate as a scrolling one page site on desktop, with the navigation changing to a hamburger menu on mobile. The website will be broken into four sections that will help first time, frequent and returning users get answers to their questions. The navigation will be sticky and be viewable at each section of the site.
+
+- About Us section
+    - This section will clearly outline what Beelive fit is, what classes does the personal trainer offer and why you might choose Beelive Fit Co. over other Personal Trainers.
+
+- Feedback section
+    - This will provide some imagery to the user that will give them a feedback from some customers already using the business.
+
+- Location section
+    - This will provide the user with all of the information to help locate and visit the coach. There will be a map link to google maps as well as the address and contact number.
+
+- Contact Us section
+    - This section will help the user send a quick question or query to the business without leaving the site. This will present a good opportunity for the user to feel the have a direct line of communication with the business.
+
+### 3.5.1 Information Architecture for the site
+
+![Sitemap](readme_files/readmefilesimgs/architecture.png)
