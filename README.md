@@ -133,11 +133,11 @@ The website will operate as a scrolling one page site on desktop, with the navig
 
 The wireframes were designed and built in [Balsamiq](https://balsamiq.com/) . They can be viewed at the following.
 
-- [Desktop]()
+- [Desktop](https://github.com/ignakio/MyfirstMS1/blob/master/readme_files/wireframes/wireframes/desktopbalsamiq.pdf)
 
-- [Ipad]()
+- [Ipad](https://github.com/ignakio/MyfirstMS1/blob/master/readme_files/wireframes/wireframes/ipadbalsamiq.pdf)
 
-- [Mobile]()
+- [Mobile](https://github.com/ignakio/MyfirstMS1/blob/master/readme_files/wireframes/wireframes/mobilebalsamiq.pdf)
 
 <p>&nbsp;</p>
 
