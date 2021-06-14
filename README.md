@@ -165,3 +165,22 @@ Colors: rgba(255, 162, 0, 1) Orange
 <p>&nbsp;</p>
 <img src="readme_files/readmefilesimgs/robotofont.png" style="margin: 0;">
 <p>&nbsp;</p>
+
+# 4. Features 
+
+## 4.1 Existing Features
+- Website designed with HTML5, CSS3 and Bootstrap.
+- A modern single page site that scrolls to each section.
+- A fixed navigation bar that will keep the user informed where they are on the page and will also user hover fuctions to prompts possible page destination.
+- Fully responsive one page site that will adapt for desktop, tablet and mobile view. This will not comprimise the user experience as each layout is designed with screen size in mind.
+- Contact form for quick communication with the business.
+- Quick links in the footer to all available social media for Beelive Fit Co.
+
+
+## 4.2 Future Features 
+
+- Testimonals or clients feedback. Possibly display the google reviews and updates as more become available.
+- A about us section explaining the business.
+- A working contact form when I learn more about Javascript and the backend requirements for this. 
+
+<p>&nbsp;</p>
