@@ -2,7 +2,7 @@
 
 <img src="readme_files/readmefilesimgs/responsive.png" style="margin: 0;">
 
-The final site can be viewed at  - [Beelive Fit Co. Live Website]()
+The final site can be viewed at  - [Beelive Fit Co. Live Website](https://ignakio.github.io/MyfirstMS1/)
 
 <p>&nbsp;</p>
 
@@ -227,7 +227,7 @@ Colors: rgba(255, 162, 0, 1) Orange
 
 Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/). In order to do this I took the following steps.
 
-1. Open my Github Repo for this project [Ignacio Cladera|Beelive Fit Co.]()
+1. Open my Github Repo for this project [Ignacio Cladera|Beelive Fit Co.](https://github.com/ignakio/MyfirstMS1)
 2. Locate and click on the settings section to the right of the screen. Settings can be viewed in the photo below
 <img src="readme_files/readmefilesimgs/locationbeelive.png" style="margin:0;">
 
