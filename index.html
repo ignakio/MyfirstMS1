@@ -20,6 +20,38 @@
 </head>
 
 <body>
+<!-- Nav Bar -->
+    <!-- CREDIT advice about closing navbar https://stackoverflow.com/questions/16680543/hide-twitter-bootstrap-nav-collapse-on-click/23926645 -->
+    <nav class="navbar navbar-expand-md navbar-light fixed-top" id="main-nav" data-toggle="collapse"
+        data-target=".navbar-collapse.show">
+        <div class="container">
+            <a href="index.html" class="navbar-brand" aria-label="Nav logo"><i class="fas fa-dumbbell"></i>Beelive Fit
+                Co.</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarcollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
 
+            <div class="collapse navbar-collapse" id="navbarcollapse">
+                <!-- CREDIT - Advice on smooth scrolling - https://stackoverflow.com/questions/49173297/bootstrap-4-smooth-scrolling-working-on-nav-link-but-not-on-other-anchor-eleme/49173734 -->
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link" aria-label="Home link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#about-us" class="nav-link" aria-label="About me">About us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#testimonial" class="nav-link" aria-label="Testimonial">Testimonial</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#location" class="nav-link" aria-label="Location">Location</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact-us" class="nav-link" aria-label="Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 </body>
 </html>
