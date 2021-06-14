@@ -1,1 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500;600&family=Roboto:wght@400;700&display=swap");
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Typography  */
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #fafafa;
+}
