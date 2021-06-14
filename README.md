@@ -128,3 +128,29 @@ The website will operate as a scrolling one page site on desktop, with the navig
 ### 3.5.1 Information Architecture for the site
 
 ![Sitemap](readme_files/readmefilesimgs/architecture.png)
+
+## 3.6 Skeleton
+
+The wireframes were designed and built in [Balsamiq](https://balsamiq.com/) . They can be viewed at the following.
+
+- [Desktop]()
+
+- [Ipad]()
+
+- [Mobile]()
+
+<p>&nbsp;</p>
+
+## 3.7 Surface
+
+### 3.7.1 Colour
+
+As the website is for a local personal trainer service the colours and style should reflect that in the design. In order to get an idea of some colours I took a look at some photos from google about bees and honeycomb.
+<p>&nbsp;</p>
+Colors: rgba(255, 162, 0, 1) Orange
+<p>&nbsp;</p>
+        #555555 Grey
+<p>&nbsp;</p>
+        rgba(0, 0, 0, 0.5) Black
+
+![Colour_1](readme_files/readmefilesimgs/honeycombcolours.jpg)
