@@ -162,6 +162,6 @@ Colors: rgba(255, 162, 0, 1) Orange
 <img src="readme_files/readmefilesimgs/beelivefitfont.png" style="margin: 0;">
 <p>&nbsp;</p>
 - For the body text on the site I used [Roboto by Christian Robertson](https://fonts.google.com/specimen/Roboto). Roboto is described as a font that allows for a more natural reading rhythm, which is will help the user navigate the content. Roboto is seen very often on websites and this in term will aid the user by building on existing mental models.
-
+<p>&nbsp;</p>
 <img src="readme_files/readmefilesimgs/robotofont.png" style="margin: 0;">
 <p>&nbsp;</p>
