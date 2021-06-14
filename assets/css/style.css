@@ -176,3 +176,33 @@ color: #000;
     color: rgba(255, 162, 0, 1);
     padding-bottom: 0.5rem;
 }
+
+/* Contact Us Section */
+
+#contact-us {
+    width: 100%;
+    min-height: 80%;
+    background-color:rgb(212,212,212);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.contact-text {
+    color: rgba(255, 162, 0, 1);
+}
+
+.form-control {
+    border: 1px solid #fafafa;
+    border-radius: 0.5rem;
+}
+
+.btn-dark {
+    background-color: rgba(255, 162, 0, 1);
+    border-color: rgba(255, 162, 0, 1);
+}
+
+.btn:hover {
+    background-color: #fafafa;
+    color: rgba(255, 162, 0, 1);
+    border-color: rgba(255, 162, 0, 1);
+}
