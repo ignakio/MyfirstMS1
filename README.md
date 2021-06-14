@@ -154,3 +154,14 @@ Colors: rgba(255, 162, 0, 1) Orange
         rgba(0, 0, 0, 0.5) Black
 
 ![Colour_1](readme_files/readmefilesimgs/honeycombcolours.jpg)
+
+### 3.7.2 Typography
+
+- For the headings on the site I have chosen [Raleway by Google Fonts](https://fonts.google.com/specimen/Raleway). I decided to use this font as a wide demographic would be using this site. Raleway is clear and fits well with the brand aesthetic. It also is likely that a user may not have trouble with this font as most devices will support google fonts.
+<p>&nbsp;</p>
+<img src="readme_files/readmefilesimgs/beelivefitfont.png" style="margin: 0;">
+<p>&nbsp;</p>
+- For the body text on the site I used [Roboto by Christian Robertson](https://fonts.google.com/specimen/Roboto). Roboto is described as a font that allows for a more natural reading rhythm, which is will help the user navigate the content. Roboto is seen very often on websites and this in term will aid the user by building on existing mental models.
+
+<img src="readme_files/readmefilesimgs/robotofont.png" style="margin: 0;">
+<p>&nbsp;</p>
