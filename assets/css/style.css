@@ -88,7 +88,7 @@ h2 {
     left: 0;
     width: 100%;
     height: 70vh;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 #headerimg .hero-text {
@@ -102,4 +102,37 @@ h2 {
 }
 .card{
     margin-top: 350px;
+}
+
+/* Testimonial Section */
+#testimonial {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 70%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.testimonial-h1 {
+    color: #555555;
+}
+
+.icon-card {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.icon {
+    background-color:rgba(255, 162, 0, 1);
+    color: #fafafa;
+    font-size: 3rem;
+    border-radius: 50%;
+    padding:7px;
+    margin-top: 70px;
+    height: 15rem;
+    width: 15rem;
+}
+
+.icon-text {
+    color: #555555;
 }
