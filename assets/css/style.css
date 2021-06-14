@@ -39,3 +39,34 @@ h2 {
     color: rgba(255, 162, 0, 1);
     border-bottom: 1px solid rgba(255, 162, 0, 1);
 }
+
+/* Navigation */
+
+.navbar {
+    width: 100%;
+    background-color: #000;
+    border-bottom: 2px solid #fafafa;
+}
+
+.navbar-light .navbar-brand {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: #fafafa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #fafafa;
+}
+
+.navbar-light .navbar-toggler {
+    color: #fafafa;
+    border-color: #fafafa;
+}
+
+.navbar-toggler{
+    background-color: rgba(255, 162, 0, 1);
+}
