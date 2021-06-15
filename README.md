@@ -1,6 +1,6 @@
 # Beelive Fit Co.
 
-<img src="readme_files/readmefilesimgs/responsive.png" style="margin: 0;">
+<img src="readme_files/readmefilesimgs/responsive1.png" style="margin: 0;">
 
 The final site can be viewed at  - [Beelive Fit Co. Live Website](https://ignakio.github.io/MyfirstMS1/)
 
