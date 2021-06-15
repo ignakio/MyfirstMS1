@@ -242,7 +242,7 @@ Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/
 
 1. Open the Github Repo for this project [Ignacio Cladera|Beelive Fit Co.](https://github.com/ignakio/MyfirstMS1)
 2. By clicking on the code section you will be presented with a drop down as demonstrated in the photo below
-<img src="readme_files/readmefilesimgs/cloningproject.png" style="margin:0;">
+<img src="readme_files/readmefilesimgs/cloning.png" style="margin:0;">
 
 3. Select and copy the URL or you can choose to 'Download Zip'
 4. With your terminal open or chosen IDE type 'git clone' in the CLI then paste the copied URL.
