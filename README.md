@@ -249,7 +249,7 @@ Beelive Fit Co. site was published using [GitHubPages](https://pages.github.com/
 5. If you would prefer you can also use the 'Open with Github Desktop' option and follow the steps provided.
 
 ## 7.3 Known Bugs
-1. There is a bug in the dev tools, when you run responsive in Iphone X. In the Beelive list form.
+1. No bugs found.
 
 <p>&nbsp;</p>
 
